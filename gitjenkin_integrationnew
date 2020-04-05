@@ -8,6 +8,7 @@
  7. git commit by using git commit -m "message as desired"
  8. push by using "git push origin "then the branch name"
  9. then go to GitHub remote repository and make a pull request
- 10. the pull request is toing to be matched by a senior devops engineer
+ 10. the pull request is going to be matched by a senior devops engineer
+ 11. this ends the steps
  
 
