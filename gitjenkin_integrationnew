@@ -6,6 +6,8 @@
  5. check your git status by using "git status"
  6. add the changes by using "git add gitjenkin-----"
  7. git commit by using git commit -m "message as desired"
- 8. push by sing "git push origin master"
+ 8. push by using "git push origin "then the branch name"
+ 9. then go to GitHub remote repository and make a pull request
+ 10. the pull request is toing to be matched by a senior devops engineer
  
 
