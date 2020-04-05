@@ -1,12 +1,11 @@
 1.  mkdir called repo eg mkdir repo
     eg mkdir repo
- 2. create a file and name it using touch
- 3. add the file using git add "filename"
- 4. clone your local repository with the remote one by using git clone "copy from remote"
- 5 then cd into the projectuse vim to eddit your project file
- check your git status by using "git status"
- add the changes by using "git add gitjenkin-----"
- git commit by using git commit -m "message as desired"
- push by sing "git push origin master"
+ 2. cd into the directory using cd "name of directory"
+ 3. clone your local repository with the remote one by using git clone "copy from remote"
+ 4 then cd into the projectuse vim to eddit your project file
+ 5. check your git status by using "git status"
+ 6. add the changes by using "git add gitjenkin-----"
+ 7. git commit by using git commit -m "message as desired"
+ 8. push by sing "git push origin master"
  
 
